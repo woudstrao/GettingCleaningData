@@ -20,4 +20,4 @@ In this repository you'll find:
 
 2. Tidy.txt : the clean dataset extracted from the original downloaded data using run_analysis.R.
 
-3. Codebook.md : the code book, which describes the contents of the data set (data, variables and transformations used to generate the data).
+3. Codebook.md : the code book, which describes the contents of the tidy data set (data, variables and transformations used to generate the data).
